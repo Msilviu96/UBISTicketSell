@@ -1,0 +1,15 @@
+com\ubis\repository\EventRepository.class
+com\ubis\entity\Account.class
+com\ubis\repository\UserRepository.class
+com\ubis\controller\EventController.class
+com\ubis\service\EventServiceImpl.class
+com\ubis\entity\Ticket.class
+com\ubis\service\TicketServiceImpl.class
+com\ubis\service\TicketService.class
+com\ubis\service\EventService.class
+com\ubis\service\UserService.class
+com\ubis\entity\Event.class
+com\ubis\Application.class
+com\ubis\repository\TicketRepository.class
+com\ubis\MvcConfig.class
+com\ubis\service\UserServiceImpl.class
