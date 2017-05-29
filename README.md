@@ -8,6 +8,8 @@ Web app developed for Ubis internship programme
 * Spring framework(boot, security, devtools, data JPA)
 * Maven
 * Materialize css
+* jQuery
+* Ajax
 
 
 ## Database
@@ -105,6 +107,10 @@ Also, short details of the ticket can be seen.
    }
 }
 ```
+## Frontend
+
+Every url is mapped in MvcConfig class to a specific view, in our case, jsp files. Every request to the endpoints is made via Ajax requests.
+
 ## Versioning
 
 Git was used for versioning. 
