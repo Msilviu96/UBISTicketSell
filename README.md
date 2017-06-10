@@ -15,6 +15,7 @@ Web app developed for Ubis internship programme
 ## Database
 
 * Mysql
+CreateScript.sql must be executed from src/main/resources.
 ## Description
 This is a web application where logged in users can buy/cancel tickets for some events. Every unauthorized request will be reidirrected to /login page.
 
